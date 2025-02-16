@@ -1,0 +1,25 @@
+package com.robjonesdev.pf2elootsie.data.models
+
+enum class EquipmentProperty(val label: String) {
+    EQUIPMENT_ID("Equipment ID"),
+    NAME("Name"),
+    IMG("Image"),
+    TYPE("Type"),
+    BASE_ITEM("Base Item"),
+    CONTAINER_ID("Container ID"),
+    DESCRIPTION("Description"),
+    HARDNESS("Hardness"),
+    MAX_HP("Max HP"),
+    LEVEL("Level"),
+    MATERIAL_GRADE("Material Grade"),
+    MATERIAL_TYPE("Material Type"),
+    PRICE("Price"),
+    LICENSE("License"),
+    REMASTER("Remaster"),
+    TITLE("Title"),
+    RARITY("Rarity"),
+    USAGE("Usage"),
+    SIZE("Size"),
+    CATEGORY("Category"),
+    TRAITS("Traits"),
+}

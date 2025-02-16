@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lootsie</string>
+
+    <string name="Home_Activity_Generate_Loot_Label">Generate New Loot</string>
+    <string name="Home_Activity_No_Loot_Generated_Label">No previously generated loot lists could be found. When you generate loot, it will be saved to this screen.</string>
+
+    <string name="Generation_Activity_Generate_New_List_Label">Generate New Loot List</string>
+    <string name="Generation_Activity_Loot_List_Name_Label">Loot List Name</string>
+    <string name="Generation_Activity_Target_Loot_Level_Label">Target Loot Level</string>
+    <string name="Generation_Activity_Total_Price_Label">Total Price Limit in GP</string>
+    <string name="Generation_Activity_Equipment_Traits_Label">Desired Equipment Traits</string>
+    <string name="Generation_Activity_Eligible_Equipment_Rarities_Label">Eligible Equipment Rarities</string>
+    <string name="Generation_Activity_Generate_Loot_Button_Label">Generate Loot</string>
+</resources>
